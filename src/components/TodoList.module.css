@@ -1,0 +1,18 @@
+.todoList {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .filters {
+    margin-bottom: 10px;
+  }
+  
+  .filters button {
+    margin-right: 10px;
+  }
+  
+  .emptyMessage {
+    text-align: center;
+    color: #aaa;
+  }

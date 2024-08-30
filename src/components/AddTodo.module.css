@@ -1,0 +1,29 @@
+
+
+.addTodoForm {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.input {
+  flex: 1;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.addButton {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.addButton:hover {
+  background-color: #218838;
+}
